@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm fate0!
 
-<!--
-**fate0/fate0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" />
 
-Here are some ideas to get you started:
+``` yaml
+name: fate0
+blog: http://blog.fatezero.org
+mail: fate0@fatezero.org
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+company: xiaomi
+title: senior security engineer
+
+interests:
+  - hacking
+  - linux
+  - open source
+  
+programming-languages:
+  - go
+  - python
+```
